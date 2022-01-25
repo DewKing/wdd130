@@ -1,0 +1,91 @@
+/* CSS files add styling rules to your content */
+
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script:700|Grenze&display=swap");
+
+body {
+  font-family: "Grenze", serif;
+  background-color: #f7fff7;
+  font-size: 1.5em;
+}
+
+h1,
+h3,
+h4,
+h5,
+h6 {
+  color: #191970;
+  font-family: "Dancing Script", cursive;
+  margin-bottom: 15px;
+  font-size: 2em;
+}
+h2 {
+  color: #ffff00;
+  font-family: "Dancing Script", cursive;
+  margin-bottom: 15px;
+  font-size: 3em;
+}
+nav {
+  background-color: #ffd700;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px black;
+  text-align: right;
+  padding-right: 20px;
+}
+nav a {
+  color: #8b0000;
+  text-decoration: none;
+  font-size: 1.5em;
+  line-height: 4em;
+}
+nav li {
+  display: inline-block;
+}
+#row1,
+#row2,
+footer {
+  padding: 10px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+#row2 {
+  background-color: #ff4500;
+  align-items: center;
+}
+.color01 {
+  color: #ffff00;
+}
+.color02 {
+  color: #fffafa;
+}
+#row3 {
+  text-align: center;
+  background-color: #999999;
+}
+#content {
+  width: 75%;
+  margin: 0 auto;
+}
+.left-column,
+.right-column {
+  width: 48%;
+  flex: 1 0 15em;
+  padding: 10px;
+}
+footer .right-column {
+  text-align: right;
+}
+fullwidth {
+  width: 100%;
+}
+img {
+  max-width: 100%;
+}
+#logo {
+  position: absolute;
+  top: 0px;
+  background-color: #ffffff;
+  border: solid thick #000000;
+  margin-left: 20px;
+}
