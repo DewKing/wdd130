@@ -1,6 +1,7 @@
 /* CSS files add styling rules to your content */
 
-@import url("https://fonts.googleapis.com/css?family=Dancing+Script:700|Grenze&display=swap");
+<style> @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+</style>
 
 body {
   font-family: "Grenze", serif;
@@ -14,13 +15,13 @@ h4,
 h5,
 h6 {
   color: #191970;
-  font-family: "Dancing Script", cursive;
+  font-family: "Acme", cursive;
   margin-bottom: 15px;
   font-size: 2em;
 }
 h2 {
   color: #ffff00;
-  font-family: "Dancing Script", cursive;
+  font-family: "Acme", cursive;
   margin-bottom: 15px;
   font-size: 3em;
 }
