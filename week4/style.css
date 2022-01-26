@@ -1,10 +1,11 @@
 /* CSS files add styling rules to your content */
 
-<style> @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Yanone+Kaffeesatz:wght@300&display=swap');
 </style>
 
 body {
-  font-family: "Grenze", serif;
+  font-family: "Yanone+Kaffeesatz";
   background-color: hsl(6, 100%, 98%);
   font-size: 2em;
 }
@@ -17,7 +18,7 @@ h6 {
   color: #191970;
   font-family: "Acme";
   margin-bottom: 0;
-  font-size: 4em;
+  font-size: 2em;
 }
 h2 {
   color: #0044ff;
