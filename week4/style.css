@@ -6,7 +6,7 @@
 body {
   font-family: "Grenze", serif;
   background-color: hsl(6, 100%, 98%);
-  font-size: 3em;
+  font-size: 2em;
 }
 
 h1,
@@ -23,7 +23,7 @@ h2 {
   color: #0044ff;
   font-family: "Acme";
   margin-bottom: 15px;
-  font-size: 3em;
+  font-size: 2em;
 }
 nav {
   background-color: #ffd700;
@@ -74,8 +74,8 @@ footer {
   flex: 1 0 15em;
   padding: 10px;
 }
-footer .center {
-  text-align: center;
+footer .right-column {
+  text-align: right;
 }
 fullwidth {
   width: 100%;
