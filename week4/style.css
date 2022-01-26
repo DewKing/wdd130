@@ -5,8 +5,8 @@
 
 body {
   font-family: "Grenze", serif;
-  background-color: #f7fff7;
-  font-size: 1.5em;
+  background-color: #fff9f7;
+  font-size: 3em;
 }
 
 h1,
@@ -20,7 +20,7 @@ h6 {
   font-size: 2em;
 }
 h2 {
-  color: #ffff00;
+  color: #0044ff;
   font-family: "Acme", cursive;
   margin-bottom: 15px;
   font-size: 3em;
@@ -55,7 +55,7 @@ footer {
   align-items: center;
 }
 .color01 {
-  color: #ffff00;
+  color: #1900ff;
 }
 .color02 {
   color: #fffafa;
@@ -74,8 +74,8 @@ footer {
   flex: 1 0 15em;
   padding: 10px;
 }
-footer .right-column {
-  text-align: right;
+footer .center {
+  text-align: center;
 }
 fullwidth {
   width: 100%;
