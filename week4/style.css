@@ -16,13 +16,13 @@ h5,
 h6 {
   color: #191970;
   font-family: "Acme";
-  margin-bottom: 15px;
-  font-size: 2em;
+  margin-bottom: 0;
+  font-size: 4em;
 }
 h2 {
   color: #0044ff;
   font-family: "Acme";
-  margin-bottom: 15px;
+  margin-bottom: 0;
   font-size: 2em;
 }
 nav {
@@ -30,7 +30,7 @@ nav {
   border-radius: 10px;
   box-shadow: 5px 5px 5px black;
   text-align: right;
-  padding-right: 20px;
+  padding: right 0;;
 }
 nav a {
   color: #8b0000;
@@ -72,7 +72,7 @@ footer {
 .right-column {
   width: 48%;
   flex: 1 0 15em;
-  padding: 10px;
+  padding: 0;
 }
 footer .right-column {
   text-align: right;
@@ -88,5 +88,5 @@ img {
   top: 0px;
   background-color: #ffffff;
   border: solid thick #000000;
-  margin-left: 20px;
+  margin-left: 0;
 }
