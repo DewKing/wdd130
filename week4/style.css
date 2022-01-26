@@ -5,7 +5,7 @@
 
 body {
   font-family: "Grenze", serif;
-  background-color: #fff9f7;
+  background-color: hsl(6, 100%, 98%);
   font-size: 3em;
 }
 
@@ -15,13 +15,13 @@ h4,
 h5,
 h6 {
   color: #191970;
-  font-family: "Acme", cursive;
+  font-family: "Acme";
   margin-bottom: 15px;
   font-size: 2em;
 }
 h2 {
   color: #0044ff;
-  font-family: "Acme", cursive;
+  font-family: "Acme";
   margin-bottom: 15px;
   font-size: 3em;
 }
