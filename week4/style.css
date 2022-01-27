@@ -23,9 +23,9 @@ h2 {
 }
 nav {
   background-color: #ffd700;
-  border-radius: 10px;
-  box-shadow: 5px 5px 5px black;
-  text-align: center;
+  border-radius: 15px;
+  box-shadow: 3px 3px 3px black;
+  text-align: right;
   padding: right 0;;
 }
 nav a {
