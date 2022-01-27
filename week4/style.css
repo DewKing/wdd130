@@ -40,6 +40,7 @@ nav li {
 #row1,
 #row2,
 footer {
+  background-color: hsl(6, 88%, 35%);
   padding: 10px;
   display: flex;
   flex-flow: row wrap;
@@ -69,9 +70,8 @@ footer {
   flex: 1 0 15em;
   padding: 0;
 }
-footer .right-column {
+footer {
   text-align: center;
-  background-color: hsl(6, 88%, 35%);
 }
 fullwidth {
   width: 100%;
