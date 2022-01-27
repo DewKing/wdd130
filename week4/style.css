@@ -46,12 +46,12 @@ nav li {
 }
 }
 footer {
-  background-color: hsl(6, 88%, 35%);
   padding: 10px;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
+  background-color: hsl(246, 73%, 65%);
 }
 #row2 {
   padding: 10px;
