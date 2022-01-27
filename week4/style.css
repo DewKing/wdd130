@@ -37,8 +37,14 @@ nav a {
 nav li {
   display: inline-block;
 }
-#row1,
-#row2,
+#row1 {
+  padding: 10px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+}
 footer {
   background-color: hsl(6, 88%, 35%);
   padding: 10px;
@@ -48,7 +54,10 @@ footer {
   align-items: center;
 }
 #row2 {
-  
+  padding: 10px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
   align-items: center;
 }
 .color01 {
