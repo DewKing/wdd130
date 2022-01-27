@@ -86,10 +86,10 @@ fullwidth {
   width: 100%;
 }
 img {
-  max-width: 100%;
+  max-width: 50%;
 }
 #logo {
-  position: absolute;
+  position: left;
   top: 0px;
   background-color: #ffffff;
   border: solid thick #000000;
