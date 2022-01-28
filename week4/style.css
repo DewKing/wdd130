@@ -52,8 +52,8 @@ nav li {
   padding: 10px;
   display: flex;
   flex-flow: row wrap;
-  justify-content:.left-column;
-  align-items:.left-column;
+  justify-content:left;
+  align-items:left;
 }
 #row2 {
   padding: 10px;
