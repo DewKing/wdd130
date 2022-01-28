@@ -64,14 +64,6 @@ nav li {
   justify-content: right;
   align-items: right;
 }
-footer {
-  padding: 10px;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: right-column;
-  align-items: right-column;
-  background-color: hsl(246, 73%, 65%);
-}
 
 .color01 {
   color: #1900ffa1;
