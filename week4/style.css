@@ -16,7 +16,7 @@ header, footer
   background-color: #cc7511;
   font-family: 'Acme', sans-serif;
   font-size: 16px;
-  max-width: 960px;
+  max-width: 100%;
   align-content: center;
   justify-content: center;
 }
