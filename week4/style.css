@@ -41,12 +41,15 @@ h3 {
 }
 #row1 {
   text-align: left;
+  align-items: center;
 }
 #row2 {
   text-align: right;
+  align-items: center;
 }
 #row3 {
   text-align: center;
+  align-content: center;
 }
 
 left-column,
