@@ -16,8 +16,8 @@ header,
 footer {
   background-color: #cc7511;
   font-size: 16px;
-  align-items: left to right;
-  justify-content: left to right;
+  align-items: left;
+  justify-content: right;
 }
 a {
   color:#ffd700;
@@ -58,6 +58,13 @@ nav li {
   text-align: center;
 }
 
+left-column,
+right-column {
+  width: 48%;
+  flex: 1 0 15em;
+  padding: 0;
+}
+
 .color01 {
   color: #1900ffa1;
 }
@@ -70,13 +77,7 @@ nav li {
 
 #content {
   width: 75%;
-} 
-left-column,
-right-column {
-  width: 48%;
-  flex: 1 0 15em;
-  padding: 0;
-}
+
  
 img {
   max-width: 100%;
