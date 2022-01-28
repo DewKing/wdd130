@@ -38,15 +38,6 @@ h3 {
   font-family: "Acme";
   font-size: 2em;
 }
-nav a {
-  color: #8b0000;
-  text-decoration: none;
-  font-size: 1.5em;
-  line-height: 4em;
-}
-nav li {
-  display: inline-block;
-}
 #row1 {
   text-align: left;
 }
@@ -62,6 +53,16 @@ right-column {
   width: 960px;
   flex: 1 0 15em;
  }
+
+nav a {
+  color: #8b0000;
+  text-decoration: none;
+  font-size: 1.5em;
+  line-height: 4em;
+}
+nav li {
+  display: inline-block;
+}
 
 .color01 {
   color: #1900ffa1;
