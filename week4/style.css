@@ -16,6 +16,7 @@ header,
 footer {
   background-color: #cc7511;
   font-size: 16px;
+  max-width: 960px;
   align-content: center;
   justify-content: center;
 }
