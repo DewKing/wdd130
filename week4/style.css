@@ -59,10 +59,9 @@ nav li {
 
 left-column,
 right-column {
-  width: 48%;
+  width: 960px;
   flex: 1 0 15em;
-  padding: 0;
-}
+ }
 
 .color01 {
   color: #1900ffa1;
