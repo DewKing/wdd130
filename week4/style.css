@@ -16,8 +16,8 @@ header,
 footer {
   background-color: #cc7511;
   font-size: 16px;
-  align-items: left;
-  justify-content: right;
+  align-items: left to right;
+  justify-content: left to right;
 }
 a {
   color:#ffd700;
@@ -49,19 +49,10 @@ nav li {
   display: inline-block;
 }
 #row1 {
-  padding: 10px;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content:left;
-  align-items:left;
+  text-align: right;
 }
 #row2 {
-  padding: 10px;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: right;
-  align-items: right;
-}
+  text-align: left;
 
 .color01 {
   color: #1900ffa1;
@@ -77,9 +68,9 @@ nav li {
 }
 #content {
   width: 75%;
-  
-.left-column,
-.right-column {
+} 
+left-column,
+right-column {
   width: 48%;
   flex: 1 0 15em;
   padding: 0;
