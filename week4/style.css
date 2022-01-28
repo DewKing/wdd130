@@ -13,9 +13,11 @@ body {
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Yanone+Kaffeesatz:wght@300&display=swap');
 </style>
 
-header,
-footer {
+header
+ {
   background-color: #cc7511;
+  display: grid;
+  grid-template-columns: 50px 1fr 1fr;
   align-items: left;
   justify-content: right;
 }
