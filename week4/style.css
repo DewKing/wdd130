@@ -1,10 +1,16 @@
-/* CSS files add styling rules to your content */
-
+* {
+  margin: 0;
+  padding: 0;
+}
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Yanone+Kaffeesatz:wght@300&display=swap');
 </style>
 
+header,footer {
+  background-color: #cc7511;
+}
 body {
+  background-color: #8b0000;
   font-family: 'Yanone Kaffeesatz';
   font-size: 2em;
 }
@@ -45,6 +51,12 @@ nav li {
   justify-content:.left-column;
   align-items:.left-column;
 }
+#row2 {
+  padding: 10px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: right;
+  align-items: right;
 }
 footer {
   padding: 10px;
@@ -54,13 +66,7 @@ footer {
   align-items: right-column;
   background-color: hsl(246, 73%, 65%);
 }
-#row2 {
-  padding: 10px;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: right;
-  align-items: right;
-}
+
 .color01 {
   color: #1900ffa1;
 }
