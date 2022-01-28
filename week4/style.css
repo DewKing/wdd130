@@ -11,7 +11,7 @@ p {
   font-size: 15px;
 }
 
-header
+header, footer
  {
   background-color: #cc7511;
   font-family: 'Acme', sans-serif;
@@ -95,11 +95,3 @@ img {
   
 }
 
-footer {
-  background-color: #cc7511;
-  font-family: 'Acme', sans-serif;
-  font-size: 10px;
-  max-width: 960px;
-  align-content: center;
-  justify-content: center;
-}
