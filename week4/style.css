@@ -42,16 +42,16 @@ nav li {
   padding: 10px;
   display: flex;
   flex-flow: row wrap;
-  justify-content: left;
-  align-items: left;
+  justify-content:.left-column;
+  align-items:.left-column;
 }
 }
 footer {
   padding: 10px;
   display: flex;
   flex-flow: row wrap;
-  justify-content: right;
-  align-items: right;
+  justify-content: right-column;
+  align-items: right-column;
   background-color: hsl(246, 73%, 65%);
 }
 #row2 {
@@ -62,10 +62,10 @@ footer {
   align-items: right;
 }
 .color01 {
-  color: #1900ff;
+  color: #1900ffa1;
 }
 .color02 {
-  color: #044d1c;
+  color: #098d35;
 }
 .color03 {
   color: #cc7511;
