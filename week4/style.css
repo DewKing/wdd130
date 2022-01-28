@@ -10,13 +10,13 @@ body {
 }
 
 h1,
-h3 {
+h2 {
   color: #0c6329;
   font-family: "Acme";
   margin-bottom: 0;
   font-size: 2em;
 }
-h2 {
+h3 {
   color: #0044ff;
   font-family: "Acme";
   margin-bottom: 0;
