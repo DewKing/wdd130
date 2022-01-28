@@ -6,6 +6,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Yanone+Kaffeesatz:wght@300&display=swap');
 </style>
 
+p {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 15px;
+}
+
 header,
 footer {
   background-color: #cc7511;
@@ -15,10 +20,7 @@ footer {
   align-content: center;
   justify-content: center;
 }
-p {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 15px;
-}
+
 a {
   color:#ffd700;
 }
