@@ -11,11 +11,11 @@ p {
   font-size: 15px;
 }
 
-header,
-footer {
+header
+ {
   background-color: #cc7511;
   font-family: 'Acme', sans-serif;
-  font-size: 20px;
+  font-size: 10px;
   max-width: 960px;
   align-content: center;
   justify-content: center;
@@ -93,4 +93,13 @@ img {
   background-color: #ffffff;
   border: solid thick #000000;
   
+}
+
+footer {
+  background-color: #cc7511;
+  font-family: 'Acme', sans-serif;
+  font-size: 10px;
+  max-width: 960px;
+  align-content: center;
+  justify-content: center;
 }
