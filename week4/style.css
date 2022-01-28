@@ -2,16 +2,17 @@
   margin: 0;
   padding: 0;
 }
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Acme&family=Yanone+Kaffeesatz:wght@300&display=swap');
-</style>
+
 
 
 body {
   background-color: #d3cece;
-  font-family: 'Yanone Kaffeesatz';
   font-size: 16px;
 }
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Yanone+Kaffeesatz:wght@300&display=swap');
+</style>
+
 header,
 footer {
   background-color: #cc7511;
