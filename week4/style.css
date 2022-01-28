@@ -100,15 +100,7 @@ footer {
   flex: 1 0 15em;
   padding: 0;
 }
-footer {padding: 10px;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: right;
-  align-items: right;}
-
-  fullwidth {
-  width: 100%;
-}
+ 
 img {
   max-width: 100%;
 }
