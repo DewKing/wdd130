@@ -16,7 +16,7 @@ header,
 footer {
   background-color: #cc7511;
   font-size: 16px;
-  align-items: left;
+  align-content: left;
   justify-content: right;
 }
 a {
@@ -31,7 +31,6 @@ h1,
 h2 {
   color: #0c6329;
   font-family: "Acme";
-  margin-bottom: 0;
   font-size: 2em;
 }
 h3 {
