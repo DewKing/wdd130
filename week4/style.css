@@ -49,10 +49,14 @@ nav li {
   display: inline-block;
 }
 #row1 {
-  text-align: right;
+  text-align: left;
 }
 #row2 {
-  text-align: left;
+  text-align: right;
+}
+#row3 {
+  text-align: center;
+}
 
 .color01 {
   color: #1900ffa1;
@@ -63,9 +67,7 @@ nav li {
 .color03 {
   color: #cc7511;
 }
-#row3 {
-  text-align: center;
-}
+
 #content {
   width: 75%;
 } 
