@@ -4,7 +4,7 @@
 }
 p {
   font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 30px;
+  font-size: 0px;
 }
 
 header, footer
@@ -78,7 +78,7 @@ nav li {
 }
 
 #content {
-  width: 75%;
+  width: 75%;}
 
  
 img {
