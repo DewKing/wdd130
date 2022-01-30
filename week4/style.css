@@ -2,9 +2,9 @@
   margin: 0;
   padding: 0;
 }
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Acme&family=Yanone+Kaffeesatz:wght@300&display=swap');
-</style>
+<style
+   @import url('https://fonts.googleapis.com/css2?family=Acme&family=Yanone+Kaffeesatz:wght@300&display=swap') ;
+/style>
 
 p {
   font-family: 'Yanone Kaffeesatz', sans-serif;
