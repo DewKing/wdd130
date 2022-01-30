@@ -4,14 +4,14 @@
 }
 p {
   font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 header, footer
  {
   background-color: #cc7511;
   font-family: 'Acme', sans-serif;
-  font-size: 16px;
+  font-size: 26px;
   max-width: 960px;
   align-content: center;
   justify-content: center;
@@ -29,12 +29,12 @@ h1,
 h2 {
   color: #0c6329;
   font-family: 'Acme', sans-serif;
-  font-size: 20px;
+  font-size: 26px;
 }
 h3 {
   color: #0044ff;
   font-family: 'Acme', sans-serif;
-  font-size: 20px;
+  font-size: 26px;
 }
 #row1 {
   text-align: left;
@@ -59,7 +59,7 @@ right-column {
 nav a {
   color: #8b0000;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 26px;
   max-width: 960px;
   line-height: 4em;
 }
