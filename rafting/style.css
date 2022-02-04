@@ -47,12 +47,14 @@ header, footer
 .left-column
  {
   align-content: space-around;
+  justify-content: left;
   width: 960px;
   flex: 1 0 15em;
  }
  .right-column
  {
   align-content: space-around;
+  justify-content: right;
   width: 960px;
   flex: 1 0 15em;
  }
