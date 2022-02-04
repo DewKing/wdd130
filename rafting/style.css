@@ -42,9 +42,15 @@ header, footer
   align-items: center;
   justify-content: center;
 }
-.left-column,
-.right-column {
-  align-content: center;
+.left-column
+ {
+  align-content: left;
+  width: 960px;
+  flex: 1 0 15em;
+ }
+ .right-column
+ {
+  align-content: right;
   width: 960px;
   flex: 1 0 15em;
  }
