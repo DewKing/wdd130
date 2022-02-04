@@ -17,7 +17,7 @@ p {
   padding: 0.5rem;
   border-radius: 1rem;
   box-shadow:  0 0 1rem #bbb;
-  float: inline-end;
+  float: inline-start;
 }
 h1,
 h2 {
@@ -58,7 +58,7 @@ header, footer
     padding: 0.75rem;
  }
  
-#logo {
+.logo {
   top: 0px;
   background-color: #ffffff;
   border: solid thick #000000;
