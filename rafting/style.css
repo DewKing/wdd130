@@ -29,7 +29,9 @@ h2 {
 h3 {
   color: #0044ff;
   font-family: 'Acme', sans-serif;
-  font-size: 36px;}
+  font-size: 36px;
+  align-items: center;
+  justify-content: center;}
 
 header, footer
  {
