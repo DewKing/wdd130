@@ -17,7 +17,7 @@ p {
   padding: 0.5rem;
   border-radius: 1rem;
   box-shadow:  0 0 1rem #bbb;
-  float: inline-start;
+  float: none;
 }
 h1,
 h2 {
