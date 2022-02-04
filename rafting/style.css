@@ -9,7 +9,7 @@ p {
   line-height: normal;
 }
 .heropic {
-  max-width: fit-content;
+  max-width: 100%;
 }
 .articlepic {
   margin: 0.5rem 1rem ;
@@ -38,7 +38,7 @@ header, footer
   grid-template-columns: 1fr 1fr 1fr;
   font-family: 'Acme', sans-serif;
   font-size: 45px;
-  max-width: 960px;
+  max-width: 100%;
   align-items: center;
   justify-content: center;
 }
