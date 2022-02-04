@@ -55,57 +55,6 @@ header, footer
     padding: 0.75rem;
  }
  
-
-a {
-  color:#ffd700;
-}
-
-.
-
-}
-#row1 {
-  text-align: left;
-  align-items: center;
-}
-#row2 {
-  text-align: right;
-  align-items: center;
-}
-#row3 {
-  text-align: center;
-  align-content: center;
-}
-
-
-
-nav a {
-  color: #f8f7f7;
-  text-decoration: none;
-  font-size: 26px;
-  max-width: 960px;
-  line-height: 4em;
-}
-nav li {
-  display: inline-block;
-}
-
-.color01 {
-  color: #1c0d3fa1;
-}
-.color02 {
-  color: #098d35;
-}
-.color03 {
-  color: #cc7511;
-}
-
-#content {
-  width: 75%;}
-
- 
-img {
-  max-width: 75%;
-}
 #logo {
   top: 0px;
   background-color: #ffffff;
