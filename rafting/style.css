@@ -8,6 +8,9 @@ p {
   font-size: 36px;
   line-height: normal;
 }
+.hero {
+  max-width: fit-content;
+}
 .articlepic {
   margin: 0.5rem 1rem ;
   border: 1px solid #ffd700;
