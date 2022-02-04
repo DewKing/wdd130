@@ -46,7 +46,7 @@ header, footer
 }
 .left-column
  {
-  align-content: space-around;
+  align-content: flex-start;
   justify-content: left;
   width: 960px;
   flex: 1 0 15em;
