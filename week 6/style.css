@@ -2,8 +2,10 @@
 
 /* Activity 1 Styles */
 .content1 {
-  /* Activity One Container */
+  display: grid;
 }
+  /* Activity One Container */
+
 .red1 {
   width: 100px;
   height: 100px;
