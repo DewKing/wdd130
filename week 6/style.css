@@ -1,32 +1,9 @@
 /* WDD 130 Positioning Activity */
-* {
-  margin: 0;
-  border: 0;
-  padding: 0;
-  box-sizing: border-box;
-  }
 
-  body {
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  .page {
-  max-width: 800px;
-  margin: 0 auto;
-}
-h1 {
-  margin:1rem 0;
-  padding: 0.75rem;
-  background-color: rgba(0,0,0,1);
-  color: rgba(255, 255, 255, 1);
-  box-shadow: 0, 0, 30px, rgba(0,0,0,1)
-}
 /* Activity 1 Styles */
 .content1 {
-  display: grid;
-}
   /* Activity One Container */
-
+}
 .red1 {
   width: 100px;
   height: 100px;
@@ -50,7 +27,6 @@ h1 {
 
 /* Activity 2 Styles */
 .content2 {
-  height: 400px;
   /* Activity Two Container */
 }
 .red2 {
@@ -76,7 +52,6 @@ h1 {
 
 /* Activity 3 Styles */
 .content3 {
-  height: 400px;
   /* Activity Three Container */
 }
 .red3 {
@@ -154,7 +129,6 @@ h1 {
 
 /* Activity 6 Styles */
 .content6 {
-  height: 400px;
   /* Activity Six Container */
 }
 .red6 {
