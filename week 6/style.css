@@ -1,5 +1,8 @@
 /* WDD 130 Positioning Activity */
-
+.page {
+  max-width: 800px;
+  margin: 0 auto;
+}
 /* Activity 1 Styles */
 .content1 {
   display: grid;
