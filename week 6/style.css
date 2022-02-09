@@ -1,7 +1,25 @@
 /* WDD 130 Positioning Activity */
-.page {
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+  body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .page {
   max-width: 800px;
   margin: 0 auto;
+}
+h1 {
+  margin:1rem 0;
+  padding: 0.75rem;
+  background-color: rgba(0,0,0,1);
+  color: rgba(255, 255, 255, 1);
+  box-shadow: 0, 0, 30px, rgba(0,0,0,1)
 }
 /* Activity 1 Styles */
 .content1 {
