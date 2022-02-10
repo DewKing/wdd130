@@ -33,7 +33,7 @@
 
 /* Activity 2 Styles */
 .content2 {
-  display: grid;
+  display: -moz-box;
   grid-template-columns: 1fr;
   justify-items:l;
   position: relative;
