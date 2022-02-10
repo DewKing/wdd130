@@ -34,15 +34,17 @@
 /* Activity 2 Styles */
 .content2 {
   display: grid;
-  position: absolute;
-  top: 40px; left: 40px;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
   justify-items: center;
-  
+  /* Activity Two Container */
 }
 .red2 {
   width: 100px;
   height: 100px;
   background-color: red;
+  position: relative;
+  top: 40px; left: 40px;
 }
 .green2 {
   width: 100px;
