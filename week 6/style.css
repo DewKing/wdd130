@@ -33,9 +33,11 @@
 
 /* Activity 2 Styles */
 .content2 {
- object-position: relative;
+ position:relative
 }
 .red2 {
+  position: relative;
+  z-index: 1;
   width: 100px;
   height: 100px;
   background-color: red;
