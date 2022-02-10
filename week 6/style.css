@@ -36,12 +36,12 @@
   display: grid;
   grid-template-columns: 1fr;
   justify-items: center;
+  position: relative;
 }
 .red2 {
   width: 100px;
   height: 100px;
   background-color: red;
-  position: relative;
   top: 0px; right: 0px;
 }
 .green2 {
