@@ -42,13 +42,12 @@
   width: 100px;
   height: 100px;
   background-color: red;
-  top: 0px; right: 0px;
+  top: 40px; right: 40px;
 }
 .green2 {
   width: 100px;
   height: 100px;
   background-color: green;
-  position: relative;
   top: 60px; right: 60px;
 }
 .yellow2 {
