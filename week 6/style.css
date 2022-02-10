@@ -34,8 +34,8 @@
 /* Activity 2 Styles */
 .content2 {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 20px;
+  position: absolute;
+  top: 40px; left: 40px;
   justify-items: center;
   
 }
