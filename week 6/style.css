@@ -37,9 +37,9 @@
   grid-template-columns: 1fr;
   grid-gap: 20px;
   justify-items: center;
+  position: relative;
 }
 .red2 {
-  position: relative;
   width: 100px;
   height: 100px;
   background-color: red;
