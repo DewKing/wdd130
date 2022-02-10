@@ -33,10 +33,10 @@
 
 /* Activity 2 Styles */
 .content2 {
- position:fixed;
+ position:relative;
 }
 .red2 {
-  position: relative;
+  
   z-index: 1;
   width: 100px;
   height: 100px;
