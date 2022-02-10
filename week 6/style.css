@@ -42,8 +42,8 @@
   width: 100px;
   height: 100px;
   background-color: red;
-  margin: 40px;
-  padding: 40px;
+  margin: 1rem auto;
+  padding: 1rem;
 .green2 {
   width: 100px;
   height: 100px;
