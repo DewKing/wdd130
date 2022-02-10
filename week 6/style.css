@@ -35,15 +35,15 @@
 .content2 {
   display: grid;
   grid-template-columns: 1fr;
-  justify-items: center;
+  justify-items:l;
   position: relative;
 }
 .red2 {
   width: 100px;
   height: 100px;
   background-color: red;
-  top: 40px; right: 40px;
-}
+  margin: 40px;
+  padding: 40px;
 .green2 {
   width: 100px;
   height: 100px;
