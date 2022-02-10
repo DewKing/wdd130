@@ -36,7 +36,6 @@
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 20px;
-  justify-items: center;
   position: relative;
 }
 .red2 {
@@ -49,7 +48,7 @@
   width: 100px;
   height: 100px;
   background-color: green;
-  top: 60px; right: 60px;
+  top: 40px; right: 40px;
 }
 .yellow2 {
   width: 100px;
