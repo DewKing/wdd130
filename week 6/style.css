@@ -33,9 +33,6 @@
 
 /* Activity 2 Styles */
 .content2 {
-  display: -moz-box;
-  grid-template-columns: 1fr;
-  justify-items:l;
   position: relative;
 }
 .red2 {
