@@ -44,7 +44,7 @@
   height: 100px;
   background-color: red;
   position: relative;
-  top: 40px; left: 40px;
+  top: 40px; right: 40px;
 }
 .green2 {
   width: 100px;
