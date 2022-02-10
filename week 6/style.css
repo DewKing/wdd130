@@ -33,7 +33,7 @@
 
 /* Activity 2 Styles */
 .content2 {
-  display: relative;
+  position: relative;
   /* Activity Two Container */
 }
 .red2 {
