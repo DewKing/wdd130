@@ -36,11 +36,10 @@
     position: relative;
     }
 .red2 {
-  
   width: 100px;
   height: 100px;
   background-color: red;
-  top: 20rem; left: 20rem;
+  top: 20rem; left: 20rem;}
 .green2 {
   width: 100px;
   height: 100px;
