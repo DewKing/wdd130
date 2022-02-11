@@ -37,14 +37,15 @@
     }
 .red2 {
   position: relative;
-  top: 20px; left: 20px;
+  top: 40px; left: 40px;
   width: 100px;
   height: 100px;
   background-color: red;
   
 }
 .green2 {
-  top: 45px; left: 45px;
+  position: relative;
+  top: 60px; left: 60px;
   width: 100px;
   height: 100px;
   background-color: green;
