@@ -34,6 +34,7 @@
 /* Activity 2 Styles */
 .content2  {
     position: relative;
+    align-items: center;
     }
 .red2 {
   position: absolute;
