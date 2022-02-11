@@ -41,13 +41,13 @@
   width: 100px;
   height: 100px;
   background-color: red;
-  top: 60px; right: 60px;
+  top: 60px; left: 60px;
 }
 .green2 {
   width: 100px;
   height: 100px;
   background-color: green;
-  top: 60px; right: 60px;
+  top: 60px; left: 60px;
 }
 .yellow2 {
   width: 100px;
