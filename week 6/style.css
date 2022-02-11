@@ -34,7 +34,7 @@
 /* Activity 2 Styles */
 .content2  {
     position: relative;
-    
+
     }
 .red2 {
   position: absolute;
@@ -46,7 +46,7 @@
 }
 .green2 {
   position: absolute;
-  top: 20px; left: 60px;
+  top: 40px; left: 80px;
   width: 100px;
   height: 100px;
   background-color: green;
