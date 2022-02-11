@@ -44,7 +44,7 @@
   
 }
 .green2 {
-  position: absolute;
+  position: relative;
   top: 40px; left: 40px;
   width: 100px;
   height: 100px;
