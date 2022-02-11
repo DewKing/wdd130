@@ -45,7 +45,7 @@
 }
 .green2 {
   position: relative;
-  top: 30px; left: 30px;
+  top: 40px; left: 40px;
   width: 100px;
   height: 100px;
   background-color: green;
@@ -53,14 +53,14 @@
 }
 .yellow2 {
   position: absolute;
-  top: 50px; left: 50px;
+  top: 60px; left: 60px;
   width: 100px;
   height: 100px;
   background-color: gold;
 }
 .blue2 {
   position: absolute;
-  top: 70px; left: 70px;
+  top: 80px; left: 80px;
   width: 100px;
   height: 100px;
   background-color: blue;
