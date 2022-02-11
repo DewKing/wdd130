@@ -38,7 +38,7 @@
     }
 .red2 {
   position: absolute;
-  top: 100px; left: 300px;
+  top: 50px; left: 50px;
   width: 100px;
   height: 100px;
   background-color: red;
@@ -46,7 +46,7 @@
 }
 .green2 {
   position: absolute;
-  top: 400px; left: 400px;
+  top: 100px; left: 100px;
   width: 100px;
   height: 100px;
   background-color: green;
