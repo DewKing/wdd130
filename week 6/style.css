@@ -54,14 +54,14 @@
 }
 .yellow2 {
   position: absolute;
-  top: 60px; left: 100px;
+  top: 60px; left: 120px;
   width: 100px;
   height: 100px;
   background-color: gold;
 }
 .blue2 {
   position: absolute;
-  top: 100px; left: 120px;
+  top: 100px; left: 140px;
   width: 100px;
   height: 100px;
   background-color: blue;
