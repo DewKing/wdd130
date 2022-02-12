@@ -71,10 +71,9 @@
 .content3 {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 20px;
   justify-items: center;
-  /* Activity Three Container */
-}
+  
+  }
 .red3 {
   width: 100px;
   height: 100px;
