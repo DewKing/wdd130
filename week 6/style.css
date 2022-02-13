@@ -145,6 +145,8 @@
 .content5 {
   /* Activity Five Container */
   height: 400px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 .red5 {
   width: 100px;
