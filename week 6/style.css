@@ -104,24 +104,28 @@
   grid-template-columns: 1fr 1fr
 }
 .red4 {
-  width: 100px;
+  width: 300px;
   height: 100px;
   background-color: red;
+  align-self: flex-start;
 }
 .green4 {
-  width: 100px;
+  width: 300px;
   height: 100px;
   background-color: green;
+  align-self: flex-start;
 }
 .yellow4 {
-  width: 100px;
+  width: 300px;
   height: 100px;
   background-color: gold;
+  align-self: flex-start;
 }
 .blue4 {
   width: 100px;
   height: 100px;
   background-color: blue;
+  align-self: flex-end;
 }
 
 /* Activity 5 Styles */
