@@ -99,7 +99,7 @@
 /* Activity 4 Styles */
 .content4 {
   /* Activity Four Container */
-  height: 400px;
+  
   display: grid;
   grid-template-columns: 1fr 1fr;
   
