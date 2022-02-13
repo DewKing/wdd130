@@ -102,6 +102,7 @@
   
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
   
 }
 .red4 {
@@ -129,7 +130,7 @@
   width: 300px;
   height: 400px;
   background-color: blue;
-  grid-column: 2/3;
+  grid-column: 3/3;
   grid-row: 1/3
 }
 
