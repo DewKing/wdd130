@@ -103,7 +103,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-  row-gap: none;
+  column-gap: none;
 }
 .red4 {
   width: 300px;
