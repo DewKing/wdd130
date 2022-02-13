@@ -74,7 +74,7 @@
   align-items: center ;
   }
 .red3 {
-  width: 100px;
+  width: 400px;
   height: 100px;
   background-color: red;
   grid-column: 1/3;
@@ -90,7 +90,7 @@
   background-color: gold;
 }
 .blue3 {
-  width: 100px;
+  width: 400px;
   height: 100px;
   background-color: blue;
   grid-column: 1/3;
