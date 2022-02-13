@@ -115,7 +115,7 @@
 }
 .green4 {
   position: absolute;
-  top: 5px; left: 0px;
+  top: 1px; left: 0px;
   width: 300px;
   height: 150px;
   background-color: green;
@@ -123,6 +123,8 @@
   grid-row: 2/3
 }
 .yellow4 {
+  position: absolute;
+  top: 2px; left: 0px;
   width: 300px;
   height: 150px;
   background-color: gold;
