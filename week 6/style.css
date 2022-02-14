@@ -172,6 +172,7 @@
   height: 400px;
   background-color: gold;
   grid: 1/3;
+  right: auto; 
 }
 .blue5 {
   position: absolute;
