@@ -144,12 +144,12 @@
 /* Activity 5 Styles */
 .content5 {
   /* Activity Five Container */
-  position: relative;
+  
   height: 400px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: center;
-  justify-content: space-between;
+  
 }
 .red5 {
   position: absolute;
