@@ -160,12 +160,12 @@
   grid: 1/3;
 }
 .green5 {
-  position: inherit;
-  float: left;
+  position: absolute;
   width: 200px;
   height: 200px;
   background-color: green;
   grid: 1/3;
+  float: left;
 }
 .yellow5 {
   position: absolute;
