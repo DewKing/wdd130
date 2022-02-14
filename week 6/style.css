@@ -159,6 +159,8 @@
   background-color: green;
 }
 .yellow5 {
+  margin: 1rem;
+  padding: 1rem;
   width: 100px;
   height: 100px;
   background-color: gold;
