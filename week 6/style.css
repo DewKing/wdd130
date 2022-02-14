@@ -159,6 +159,7 @@
   grid: 1/3;
 }
 .green5 {
+  position: inherit;
   float: left;
   width: 100px;
   height: 100px;
