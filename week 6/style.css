@@ -149,6 +149,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: center;
+  justify-content: space-between;
 }
 .red5 {
   position: absolute;
@@ -161,8 +162,8 @@
 .green5 {
   position: inherit;
   float: left;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   background-color: green;
   grid: 1/3;
 }
