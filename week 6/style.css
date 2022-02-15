@@ -150,6 +150,7 @@
 /* Activity 6 Styles */
 .content6 {
   display: grid;
+  height: 400px
     /* Activity Six Container */
 }
 .red6 {
