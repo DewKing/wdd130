@@ -150,11 +150,9 @@
 /* Activity 6 Styles */
 .content6 {
   display: grid;
-  /* Activity Six Container */
+    /* Activity Six Container */
 }
 .red6 {
-  width: 100px;
-  height: 100px;
   background-color: red;
   grid-row: 1/3;
   z-index: 5;
