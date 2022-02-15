@@ -126,12 +126,9 @@
 /* Activity 5 Styles */
 .content5 {
   /* Activity Five Container */
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 20px;
-  justify-items: center;
-}
+  }
 .red5 {
+  height: 100px;
   background-color: red;
 }
 .green5 {
