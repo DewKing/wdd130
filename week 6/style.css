@@ -150,6 +150,8 @@
 /* Activity 6 Styles */
 .content6 {
   display: grid;
+  grid-template-columns:6;
+  grid-template-rows: 6;
   height: 400px
     /* Activity Six Container */
 }
