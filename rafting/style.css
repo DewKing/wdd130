@@ -38,11 +38,13 @@ header
   background-color: #cc7511;
   margin: 1rem auto;
   display: flex;
-  font-family: 'Acme', sans-serif;
-  font-size: 45px;
-  max-width: 1200px;
   align-items: center;
   border-bottom: 1px solid #ccc;
+  max-width: 1200px;
+  font-family: 'Acme', sans-serif;
+  font-size: 45px;
+  
+  
 }
 .left-column
  {
@@ -75,5 +77,16 @@ header
   background-color: #ffffff;
   border: solid thick #000000;
   
+}
+footer
+ {
+  background-color: #cc7511;
+  margin: 1rem auto;
+  display: flex;
+  font-family: 'Acme', sans-serif;
+  font-size: 45px;
+  max-width: 1200px;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
 }
 
