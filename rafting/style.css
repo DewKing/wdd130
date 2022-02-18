@@ -72,13 +72,8 @@ header
     padding: 0.75rem;
  }
  
-.logo {
-  top: 0px;
-  background-color: #ffffff;
-  border: solid thick #000000;
-  
-}
-footer
+
+.footer
  {
   background-color: #cc7511;
   margin: 1rem auto;
