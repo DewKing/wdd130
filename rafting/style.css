@@ -2,6 +2,16 @@
   margin: 1rem;
   padding: 1rem;
 }
+header
+ {
+  background-color: #cc7511;
+  margin: 1rem auto;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+  max-width: 1200px
+  
+}
 p {
   color: #1d0f25;
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -33,16 +43,6 @@ h3 {
   align-items: center;
   justify-content: center;}
 
-header
- {
-  background-color: #cc7511;
-  margin: 1rem auto;
-  display: flex;
-  align-items: center;
-  border-bottom: 1px solid #ccc;
-  max-width: 1200px
-  
-}
 .left-column
  {
   align-content: flex-start;
