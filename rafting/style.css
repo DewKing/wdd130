@@ -43,7 +43,7 @@ header, footer
   font-size: 45px;
   max-width: 1200px;
   align-items: center;
-  justify-content: center;
+  border-bottom: 1px solid #ccc;
 }
 .left-column
  {
