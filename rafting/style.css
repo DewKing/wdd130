@@ -33,12 +33,11 @@ h3 {
   align-items: center;
   justify-content: center;}
 
-header, footer
+header
  {
   background-color: #cc7511;
   margin: 1rem auto;
   display: flex;
-  grid-template-columns: 1fr 1fr 1fr;
   font-family: 'Acme', sans-serif;
   font-size: 45px;
   max-width: 1200px;
