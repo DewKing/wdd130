@@ -80,6 +80,7 @@ h4 {
  {
    grid-column: 2/3;
   align-content: space-around;
+  align-items: center;
   justify-content: right;
   width: 960px;
   flex: 1 0 15em;
