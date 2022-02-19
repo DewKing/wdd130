@@ -16,11 +16,7 @@ body {
   width: 100%;
   border: #0c6329;
 }
-main{
-  display: grid;
-  grid-template-columns: 1fr 1fr ;
-  grid-template-rows: 50px 50px;
-}
+
 p {
   color: #1d0f25;
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -54,7 +50,7 @@ h3 {
 
 .left-column
  {
-  align-content: flex-start;
+  align-content: space-around;
   justify-content: left;
   width: 960px;
   flex: 1 0 15em;
