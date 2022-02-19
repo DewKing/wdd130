@@ -25,6 +25,7 @@ p {
 }
 .heropic {
   max-width: 960rem;
+  align-self: center;
 }
 .articlepic {
   margin: 0.5rem 1rem ;
