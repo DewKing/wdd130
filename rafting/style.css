@@ -2,7 +2,6 @@ header
  {
   margin: 1rem auto;
   display: flex;
-  flex-direction: auto;
   align-items: center;
   border-bottom: 1px solid #ccc;
   max-width: 1200px;
