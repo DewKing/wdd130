@@ -9,6 +9,9 @@ header
   background-color: #cc7511;
   
 }
+.Banner {
+  width: 100%;
+}
 
 nav{
   align-items: center;
@@ -30,9 +33,7 @@ p {
   font-size: 36px;
   line-height: normal;
 }
-.Banner {
-  width: 100%;
-}
+
 .heropic {
   max-width: 960rem;
   align-content: center;
