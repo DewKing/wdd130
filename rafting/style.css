@@ -9,14 +9,16 @@ header
   
 }
 body {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 75px 75px;
   margin: 0px;
   padding: 0px;
   box-sizing: content-box;
   width: 100%;
   border: #0c6329;
+}
+main{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 75px 75px;
 }
 p {
   color: #1d0f25;
