@@ -29,8 +29,9 @@ p {
 .heropic {
   max-width: 960rem;
   align-content: center;
+  justify-items: center;
 }
-.articlepic {
+.articlepic1 {
   margin: 0.5rem 1rem ;
   border: 1px solid #ffd700;
   padding: 0.5rem;
@@ -38,7 +39,16 @@ p {
   box-shadow:  0 0 1rem #bbb;
   float: left;
 }
+.articlepic2 {
+  margin: 0.5rem 1rem ;
+  border: 1px solid #ffd700;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  box-shadow:  0 0 1rem #bbb;
+  float: right;
+}
 h1 {
+  position: relative;
   float: inline-start;
 }h1,h2 {
   color: #0c6329;
