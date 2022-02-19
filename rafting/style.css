@@ -1,7 +1,9 @@
 header
  {
   margin: 1rem auto;
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 100px 100px;
   align-items: center;
   border-bottom: 1px solid #ccc;
   max-width: 1200px;
