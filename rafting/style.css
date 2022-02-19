@@ -9,8 +9,9 @@ header
   background-color: #cc7511;
   
 }
-ul{
+nav{
   align-items: center;
+  justify-content: space-between;
 }
 body {
   margin: 2px;
@@ -113,7 +114,7 @@ footer
   font-family: 'Acme', sans-serif;
   font-size: 45px;
   max-width: 1200px;
-  align-items: center;
+  align-content: center;
   border-bottom: 1px solid #ccc;
 }
 
