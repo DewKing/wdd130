@@ -38,8 +38,9 @@ p {
   box-shadow:  0 0 1rem #bbb;
   float: left;
 }
-h1,
-h2 {
+h1 {
+  float: inline-start;
+}h1,h2 {
   color: #0c6329;
   font-family: 'Acme', sans-serif;
   font-size: 36px;
