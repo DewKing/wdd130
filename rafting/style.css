@@ -52,6 +52,10 @@ p {
   box-shadow: 0 0 30px #333;
   opacity: 0.9;
 }
+.stats span {
+  font-style: italic;
+  font-weight: 700;
+}
 
 h1.h2.h3,h4{
   display: grid;
