@@ -47,6 +47,10 @@ p {
   box-shadow:  0 0 1rem #bbb;
   float: right;
 }
+h1.h2.h3,h4{
+  display: grid;
+  grid-column: 1fr 1fr 1fr;
+}
 h1 {
   position: relative;
   float: inline-start;
