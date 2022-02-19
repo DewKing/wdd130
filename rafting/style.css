@@ -5,7 +5,15 @@ header
   align-items: center;
   border-bottom: 1px solid #ccc;
   max-width: 1200px;
+  background-color: #cc7511;
   
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: content-box;
+  width: 100%;
+  border: #0c6329;
 }
 p {
   color: #1d0f25;
