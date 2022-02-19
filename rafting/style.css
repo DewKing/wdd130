@@ -9,6 +9,7 @@ header
   background-color: #cc7511;
   
 }
+
 nav{
   align-items: center;
   justify-content: space-between;
@@ -29,10 +30,27 @@ p {
   font-size: 36px;
   line-height: normal;
 }
+.Banner {
+  width: 100%;
+}
 .heropic {
   max-width: 960rem;
   align-content: center;
   justify-items: center;
+}
+.herodiv{
+  margin: 10px auto;
+  position:relative
+}
+.stats {
+  position: absolute;
+  top: 25px;
+  right: 50px;
+  background: #ccc;
+  border: 2px solid #b6cfbe;
+  padding: 1.5rem;
+  box-shadow: 0 0 30px #333;
+  opacity: 0.9;
 }
 
 h1.h2.h3,h4{
