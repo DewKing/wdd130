@@ -3,6 +3,7 @@ header
   margin: 1rem auto;
   display: flex;
   align-items: center;
+  justify-content: space-around;
   border-bottom: 1px solid #ccc;
   max-width: 1200px;
   background-color: #cc7511;
@@ -17,8 +18,8 @@ body {
 }
 main{
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 75px 75px;
+  grid-template-columns: 1fr 1fr ;
+  grid-template-rows: 50px 50px;
 }
 p {
   color: #1d0f25;
