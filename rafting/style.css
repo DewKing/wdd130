@@ -119,7 +119,7 @@ footer
   font-family: 'Acme', sans-serif;
   font-size: 45px;
   max-width: 1200px;
-  align-content: center;
+  align-content: baseline;
   justify-items: center;
   border-bottom: 1px solid #ccc;
 }
