@@ -9,6 +9,10 @@ header
   background-color: #cc7511;
   
 }
+main {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .Banner {
   width: 100%;
 }
@@ -35,9 +39,7 @@ p {
 }
 
 .heropic {
-  max-width: 960rem;
-  align-content: center;
-  justify-items: center;
+  width: 100%;
 }
 .herodiv{
   margin: 10px auto;
