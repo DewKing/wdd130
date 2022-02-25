@@ -95,7 +95,7 @@ h4 {
   padding: 0.5rem;
   border-radius: 1rem;
   box-shadow:  0 0 1rem #bbb;
-  grid: 1/2;
+  grid: 2/3;
  
 }
 
@@ -129,6 +129,7 @@ footer
  {
   background-color: #cc7511;
   margin: 1rem auto;
+  padding: 1rem auto;
   display: flex;
   font-family: 'Acme', sans-serif;
   font-size: 45px;
