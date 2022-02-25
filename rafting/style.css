@@ -13,9 +13,6 @@ main {
   max-width: 960px;
   margin: 0 auto;
 }
-.Banner {
-  width: 100%;
-}
 
 nav{
   align-items: center;
@@ -98,7 +95,8 @@ h4 {
   padding: 0.5rem;
   border-radius: 1rem;
   box-shadow:  0 0 1rem #bbb;
-  float: right;
+  grid: 1/2;
+ 
 }
 
 .left-column
