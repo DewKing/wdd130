@@ -9,3 +9,8 @@ header
     background-color: #5a3806;
     
   }
+  main {
+    max-width: 960px;
+    margin: 0 auto;
+    grid:1fr 1fr 1fr
+  }
