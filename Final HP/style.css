@@ -8,10 +8,17 @@ header {
   justify-content: space-around;
   border-bottom: 1px solid rgb(3, 25, 37);
   max-width: 1200px;
-  background-color: #5a3806;
+  background-color: #918b83;
 }
 main {
   max-width: 960px;
   margin: 0 auto;
   grid: 1fr 1fr 1fr;
 }
+p {
+    align-content: center;
+    color: #552174;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 36px;
+    line-height: normal;
+  }
