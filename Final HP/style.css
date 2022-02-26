@@ -1,16 +1,17 @@
-header
-{
-    margin: 1rem auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    border-bottom: 1px solid rgb(3, 25, 37);
-    max-width: 1200px;
-    background-color: #5a3806;
-    
-  }
-  main {
-    max-width: 960px;
-    margin: 0 auto;
-    grid:1fr 1fr 1fr
-  }
+header {
+  font-family: "Acme", sans-serif;
+  font-size: 45px;
+  line-height: normal;
+  margin: 1rem auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-bottom: 1px solid rgb(3, 25, 37);
+  max-width: 1200px;
+  background-color: #5a3806;
+}
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  grid: 1fr 1fr 1fr;
+}
