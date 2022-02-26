@@ -22,3 +22,6 @@ p {
     font-size: 36px;
     line-height: normal;
   }
+  .picture1
+  { margin: 10px auto;
+    position:relative}
