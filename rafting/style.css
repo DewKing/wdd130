@@ -63,6 +63,9 @@ h1.h2.h3,h4{
   display: grid;
   grid-column: 1fr 1fr 1fr;
 }
+ul {
+  color: antiquewhite;
+}
 h1 {
   position: relative;
   float: inline-start;
