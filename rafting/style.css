@@ -4,7 +4,7 @@ header
   display: flex;
   align-items: center;
   justify-content: space-around;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid rgb(117, 14, 14);
   max-width: 1200px;
   background-color: #4ae00e;
   
@@ -16,7 +16,7 @@ main {
 }
 
 nav{
-  color: #b6cfbe;
+  color: #e9900a;
   align-items: center;
   justify-content: space-between;
 }
