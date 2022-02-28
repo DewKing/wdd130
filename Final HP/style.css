@@ -25,3 +25,23 @@ p {
   .picture1
   { margin: 10px auto;
     position:relative}
+  h1 {
+      position: relative;
+      float: inline-start;
+      color: #6728cc;
+      font-family: 'Acme', sans-serif;
+      font-size: 45px;
+      line-height: normal;}
+.footer
+ {
+  background-color: #cc7511;
+  margin: 1rem auto;
+  padding: 1rem auto;
+  display: flex;
+  font-family: 'Acme', sans-serif;
+  font-size: 45px;
+  max-width: auto;
+  align-content: baseline;
+  justify-items: center;
+  border-bottom: 1px solid #ccc;
+}
