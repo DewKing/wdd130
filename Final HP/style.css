@@ -17,7 +17,7 @@ main {
 }
 p {
     align-content: center;
-    color: #552174;
+    color: #030303;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 36px;
     line-height: normal;
@@ -41,7 +41,7 @@ footer
   font-family: 'Acme', sans-serif;
   font-size: 45px;
   max-width: auto;
-  align-content: baseline;
+  align-content: center;
   justify-items: center;
   border-bottom: 1px solid #ccc;
 }
