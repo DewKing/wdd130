@@ -59,8 +59,8 @@ h1 {
 }
 footer {
   background-color: #cc3d11;
-  margin: 1rem 100%;
-  padding: 1rem 100%;
+  margin: 1rem 1200px;
+  padding: 1rem 1200px;
   display: flex;
   font-family: "Acme", sans-serif;
   font-size: 45px;
