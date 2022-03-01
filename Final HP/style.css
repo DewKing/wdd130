@@ -16,49 +16,52 @@ main {
   grid: 1fr 1fr 1fr;
 }
 p {
-    align-content: center;
-    color: #030303;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 36px;
-    line-height: normal;
-  }
-  .picture1a
-  { margin: 0.5rem 1rem ;
-    border: 2px solid #ffd700;
-    padding: 0.5rem;
-    border-radius: 1rem;
-    box-shadow:  0 0 1rem #bbb;
-    grid: 1/3;}
-    .picture1b
-  { margin: 0.5rem 1rem ;
-    border: 2px solid hsl(36, 100%, 50%);
-    padding: 0.5rem;
-    border-radius: 1rem;
-    box-shadow:  0 0 1rem rgb(139, 133, 133);
-    grid: 2/3;}
-    
-  
-    .picture2
-  { margin: 0.5rem 1rem ;
-    border: 2px solid #ff00004d;
-    padding: 0.5rem;
-    border-radius: 1rem;
-    box-shadow:  0 0 1rem #bbb;
-    grid: 1/3;}
-  h1 {
-      position: relative;
-      float: inline-start;
-      color: #6728cc;
-      font-family: 'Acme', sans-serif;
-      font-size: 45px;
-      line-height: normal;}
-footer
- {
+  align-content: center;
+  color: #030303;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 36px;
+  line-height: normal;
+}
+.picture1a {
+  margin: 0.5rem 1rem;
+  border: 2px solid #ffd700;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 1rem #bbb;
+  grid: 1/3;
+}
+
+.picture1b {
+  margin: 0.5rem 1rem;
+  border: 2px solid hsl(36, 100%, 50%);
+  padding: 0.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 1rem rgb(139, 133, 133);
+  grid: 2/3;
+}
+
+.picture2 {
+  margin: 0.5rem 1rem;
+  border: 2px solid #ff00004d;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 1rem #bbb;
+  grid: 1/3;
+}
+h1 {
+  position: relative;
+  float: inline-start;
+  color: #6728cc;
+  font-family: "Acme", sans-serif;
+  font-size: 45px;
+  line-height: normal;
+}
+footer {
   background-color: #cc3d11;
   margin: 1rem auto;
   padding: 1rem auto;
   display: flex;
-  font-family: 'Acme', sans-serif;
+  font-family: "Acme", sans-serif;
   font-size: 45px;
   max-width: auto;
   align-content: center;
