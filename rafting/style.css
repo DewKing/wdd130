@@ -155,7 +155,7 @@ footer
   display: flex;
   max-width: 1200px;
   align-items: center;
-  justify-content: space-evenly ;
+  justify-content: space-between ;
   padding: .5rem;
 }
 
