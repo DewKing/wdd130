@@ -176,18 +176,17 @@ h4 {
   align-items: center;
   justify-content: center;
 }
+svg#layer_1{
+  padding: .5rem;
+}
  
 footer
  {
   background-color: #cc7511;
-  margin: 1rem auto;
-  padding: 1rem auto;
   display: flex;
-  font-family: 'Acme', sans-serif;
-  font-size: 45px;
   max-width: 1200px;
-  align-content: baseline;
-  justify-items: center;
-  border-bottom: 1px solid #ccc;
+  align-items: center;
+  justify-content: space-evenly ;
+  padding: .5rem;
 }
 
