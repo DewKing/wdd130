@@ -14,9 +14,8 @@ main {
   position: relative;
   max-width: 960px;
   margin: 0 auto;
-  grid: 1fr 1fr 1fr;
 }
-p {
+  p {
   align-content: center;
   color: #030303;
   font-family: "Yanone Kaffeesatz", sans-serif;
