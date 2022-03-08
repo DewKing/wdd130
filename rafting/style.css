@@ -31,7 +31,6 @@ nav ul{
 main {
   max-width: 960px;
   margin: 0 auto;
-  display: grid;
   }
 
 
@@ -45,7 +44,6 @@ body {
 }
 
 p {
-  margin:0;
   align-content: center;
   color: #1d0f25;
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -63,11 +61,11 @@ p {
 }
 .stats {
   position: absolute;
-  top: 25px;
-  right: 50px;
+  top: 50px;
+  left: 100px;
   background: #ccc;
   border: 1px solid #b6cfbe;
-  padding: 1.5rem;
+  padding: 3rem;
   box-shadow: 0 0 30px #333;
   opacity: 0.9;
   align-content: center;
@@ -84,12 +82,15 @@ h1.h2.h3,h4{
 
 h1 {
   position: relative;
-  float: inline-start;
   color: #8a1e0b;
   font-family: 'Acme', sans-serif;
   font-size: 45px;
   line-height: normal;
-}h2,h3 {
+}
+h2 {
+  margin: 0;
+}
+h2,h3 {
   color: #0c6329;
   font-family: 'Acme', sans-serif;
   font-size: 36px;
@@ -109,17 +110,20 @@ h4 {
     padding: 0.5rem;
     border-radius: 1rem;
     box-shadow:  0 0 1rem #bbb;
-    width: 275;
+    width: 375px;
       
   }
   
-  .right-column
+  section#right-column
  {
-  align-content: space-around;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
   align-items: center;
-  justify-content: left;
-  width: 960px;
-  flex: 1 0 15em;
+  grid-gap: 2rem;
+ }
+ #right-column picture{
+   grid-column: 2/3;
+   grid-row: 1/3;
  }
   
 .articlepic2 {
