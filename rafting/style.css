@@ -156,11 +156,7 @@ section#left-column
   align-items: center;
   justify-content: center;
 }
-svg#layer_1{
-  width: 67px;
-  height: 67px;
-  padding: 1rem;
-}
+
  
 footer
  {
@@ -169,5 +165,10 @@ footer
   align-items: center;
   justify-content: space-evenly ;
   padding: .5rem;
+}
+svg#layer_1{
+  width: 67px;
+  height: 67px;
+  padding: 1rem;
 }
 
