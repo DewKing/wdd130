@@ -7,9 +7,10 @@ header
   background-color: #f1bb69;
   
 }
-#header picture{
+.logo{
   width: 400px;
 }
+  
 nav{
   color: #6e4911;
   align-items: center;
