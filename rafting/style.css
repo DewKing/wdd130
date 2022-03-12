@@ -80,8 +80,7 @@ p {
 
 h1.h2.h3,h4{
   display: grid;
-  grid-column: 1fr 1fr;
-}
+  }
 
 h1 {
   position: relative;
