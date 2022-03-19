@@ -49,7 +49,7 @@ form {
   
   textarea {
     /* Align multiline text fields with their labels */
-    vertical-align: center;
+    vertical-align: bottom;
   
     /* Provide space to type some text */
     height: 5em;
