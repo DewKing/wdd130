@@ -51,6 +51,7 @@ form {
     /* Align multiline text fields with their labels */
     vertical-align: center;
     align-items: center;
+    justify-items: center ;
   
     /* Provide space to type some text */
     height: 5em;
