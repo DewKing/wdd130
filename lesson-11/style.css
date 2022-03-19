@@ -4,11 +4,12 @@ form {
     width: 400px;
     /* Form outline */
     padding: 1em;
-    border: 1px solid rgb(33, 37, 228);
+    border: 1px solid rgb(33, 46, 228);
     border-radius: 1em;
   }
   
   ul {
+    background-color: rgb(228,150, 33);
     list-style: none;
     padding: 0;
     margin: 0;
