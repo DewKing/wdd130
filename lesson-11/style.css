@@ -6,6 +6,7 @@ form {
     padding: 1em;
     border: 1px solid rgb(33, 46, 228);
     border-radius: 1em;
+    justify-items: center;
   }
   
   ul {
@@ -48,7 +49,7 @@ form {
   
   textarea {
     /* Align multiline text fields with their labels */
-    vertical-align: top;
+    vertical-align: center;
   
     /* Provide space to type some text */
     height: 5em;
