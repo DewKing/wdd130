@@ -44,12 +44,13 @@ form {
   input:focus,
   textarea:focus {
     /* Additional highlight for focused elements */
-    border-color: #000;
+    border-color: rgb(69, 197, 90);
   }
   
   textarea {
     /* Align multiline text fields with their labels */
-    vertical-align: bottom;
+    vertical-align: center;
+    align-items: center;
   
     /* Provide space to type some text */
     height: 5em;
