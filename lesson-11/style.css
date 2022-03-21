@@ -1,6 +1,5 @@
 form {
     /* Center the form on the page */
-    vertical-align: top;
     margin: 0 auto;
     width: 400px;
     /* Form outline */
@@ -50,7 +49,7 @@ form {
   
   textarea {
     /* Align multiline text fields with their labels */
-    vertical-align: center;
+    vertical-align: text-top;
     align-items: center;
     justify-items: center ;
   
