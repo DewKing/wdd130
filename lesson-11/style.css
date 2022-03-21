@@ -1,5 +1,6 @@
 form {
     /* Center the form on the page */
+    vertical-align: top;
     margin: 0 auto;
     width: 400px;
     /* Form outline */
