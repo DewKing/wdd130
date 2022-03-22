@@ -40,12 +40,14 @@ form {
   
     /* Match form field borders */
     border: 1px solid #999;
+    padding: 1rem;
   }
   
   input:focus,
   textarea:focus {
     /* Additional highlight for focused elements */
     border-color: rgb(69, 197, 90);
+    padding: 1rem;
   }
   
   textarea {
