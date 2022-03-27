@@ -1,4 +1,11 @@
-body {
+
+  .card {
+      width: 400px;
+      border-radius: 30px;
+      box-shadow: 10px 5pn 5px grey;
+
+  }
+  body {
     background: linear-gradient(to right, #8e9eab, #eef2f3);
     height: 100vh;
     display: flex;
@@ -7,12 +14,6 @@ body {
     font-family:  "Acme", sans-serif;
     letter-spacing: 0.03em;
   }
-  .card {
-      width: 400px;
-      border-radius: 30px;
-      box-shadow: 10px 5pn 5px grey;
-
-  }
   .picture {
-      width: 100px;
+      width: 300px;
   }
