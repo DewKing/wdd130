@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: (your choice), sans-serif;
+    font-family:  "Acme", sans-serif;
     letter-spacing: 0.03em;
   }
   .card {
