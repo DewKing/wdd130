@@ -56,6 +56,13 @@ h1 {
   font-size: 45px;
   line-height: normal;
 }
+section#left-column
+ {
+  display: grid;
+  grid-gap: 2rem;
+  align-items: center;
+ }
+ 
 footer {
   background-color: #cc3d11;
   margin: 1rem auto;
