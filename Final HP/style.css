@@ -4,7 +4,7 @@ header {
   line-height: normal;
   margin: 1rem auto;
   display: flex;
-  align-items: relative;
+  align-items: space-evenly;
   justify-content: space-around;
   border-bottom: 1px solid rgb(3, 25, 37);
   max-width: 100%;
