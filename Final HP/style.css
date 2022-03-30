@@ -41,7 +41,7 @@ section#left-column
   padding: 0.5rem;
   border-radius: 1rem;
   box-shadow: 0 0 1rem #bbb;
-  grid: 1/3;
+  grid-column: 1/3;
 }
 .picture1b {
   margin: 0.5rem 1rem;
@@ -49,7 +49,7 @@ section#left-column
   padding: 0.5rem;
   border-radius: 1rem;
   box-shadow: 0 0 1rem rgb(139, 133, 133);
-  grid: 2/3;
+  grid-column: 2/3;
 }
 #right-column picture{
   grid-column: 1/3;
