@@ -62,7 +62,13 @@ section#left-column
   grid-gap: 2rem;
   align-items: center;
  }
- 
+ section#right-column
+ {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  grid-gap: 2rem;
+ }
 footer {
   background-color: #cc3d11;
   margin: 1rem auto;
