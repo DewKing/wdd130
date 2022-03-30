@@ -30,6 +30,9 @@ main {
   box-shadow: 0 0 1rem #bbb;
   grid: 1/3;
 }
+#left-column picture{
+  grid-row: 1/4
+}
 
 .picture1b {
   margin: 0.5rem 1rem;
@@ -38,6 +41,10 @@ main {
   border-radius: 1rem;
   box-shadow: 0 0 1rem rgb(139, 133, 133);
   grid: 2/3;
+}
+#right-column picture{
+  grid-column: 2/3;
+  grid-row: 1/3;
 }
 
 .picture2 {
@@ -48,6 +55,7 @@ main {
   box-shadow: 0 0 1rem #bbb;
   grid: 1/3;
 }
+
 h1 {
   position: relative;
   float: inline-start;
