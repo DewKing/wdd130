@@ -36,13 +36,7 @@ main {
   max-width: 960px;
   margin: 0 auto;
 }
-h1 {
-  position: relative;
-  color: #8a1e0b;
-  font-family: 'Acme', sans-serif;
-  font-size: 50px;
-  line-height: normal;
-}
+
 section#left-column
  {
   display: grid;
@@ -70,15 +64,8 @@ section#left-column
   font-size: 36px;
   line-height: normal;
 }
-.picture1a {
-  margin: 0.5rem 1rem;
-  border: 2px solid #ffd700;
-  padding: 0.5rem;
-  border-radius: 1rem;
-  box-shadow: 0 0 1rem #bbb;
-  grid-column: 1/3;
-}
-.picture1b {
+
+.picture1a,.picture1b {
   margin: 0.5rem 1rem;
   border: 2px solid hsl(36, 100%, 50%);
   padding: 0.5rem;
