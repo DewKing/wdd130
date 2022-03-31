@@ -10,32 +10,30 @@ header {
   max-width: 100%;
   background-color: #cfb10a;
 }
-nav{
+nav {
   color: #6e4911;
   align-items: center;
   justify-content: space-between;
-  display:flex
+  display: flex;
 }
 nav li {
   flex: 1 1 auto;
 }
-nav a{
-  display:block;
+nav a {
+  display: block;
   text-decoration: none;
   padding: 1rem;
   font-size: 2rem;
-
 }
-nav ul{
-  display:flex;
+nav ul {
+  display: flex;
   list-style: none;
 }
 main {
-  display: grid;
-  position: relative;
   max-width: 960px;
   margin: 0 auto;
 }
+
 body {
   margin: 0;
   padding: 5px;
@@ -45,43 +43,42 @@ body {
   align-items: center;
 }
 
-section#left-column
- {
-  display: grid;
-  grid-gap: 2rem;
-  align-items: center;
- }
- #left-column picture{
-   grid-row: 1/4}
-   section#right-column
-   {
-    display:grid;
-    grid-template-columns: 1fr 1fr;
-    align-items: center;
-    grid-gap: 2rem;
-   }
-   #right-column picture{
-     grid-column: 2/3;
-     grid-row: 1/3;
-   }
- 
-  p {
+p {
   align-content: center;
-  color: #030303;
+  color: #1d0f25;
   font-family: "Yanone Kaffeesatz", sans-serif;
   font-size: 36px;
   line-height: normal;
 }
 
-.picture1a,.picture1b {
-  margin: 0.5rem 1rem;
-  border: 2px solid hsl(36, 100%, 50%);
+section#left-column {
+  display: grid;
+  grid-gap: 2rem;
+  align-items: center;
+}
+#left-column picture {
+  grid-row: 1/4;
+}
+section#right-column {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  grid-gap: 2rem;
+}
+#right-column picture {
+  grid-column: 2/3;
+  grid-row: 1/3;
+}
+
+.picture1a,
+.picture1b {
+  border: 1px solid hsl(36, 100%, 50%);
   padding: 0.5rem;
   border-radius: 1rem;
   box-shadow: 0 0 1rem rgb(139, 133, 133);
-  grid-column: 2/3;
+  width: 400px;
 }
-#right-column picture{
+#right-column picture {
   grid-column: 1/3;
   grid-row: 1/4;
 }
