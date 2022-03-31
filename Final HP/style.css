@@ -70,8 +70,8 @@ section#right-column {
   grid-row: 1/3;
 }
 
-.picture1a,
-.picture1b {
+.picture1,
+.picture3 {
   border: 1px solid hsl(36, 100%, 50%);
   padding: 0.5rem;
   border-radius: 1rem;
