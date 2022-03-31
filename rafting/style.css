@@ -151,6 +151,13 @@ section#left-column
  #left-column p{
   grid-column: 2/3;
 }
+p{
+  align-content: center;
+  color: #1d0f25;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 36px;
+  line-height: normal;
+}
  
 footer
  {
