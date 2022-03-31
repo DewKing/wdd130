@@ -109,7 +109,7 @@ footer {
   display: flex;
   font-family: "Acme", sans-serif;
   font-size: 45px;
-  max-width: 400px;
+  max-width: absolute;
   align-content: center;
   justify-items: center;
   border-bottom: 1px solid #ccc;
