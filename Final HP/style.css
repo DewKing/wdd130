@@ -78,11 +78,6 @@ section#right-column {
   box-shadow: 0 0 1rem rgb(139, 133, 133);
   width: 400px;
 }
-#right-column picture {
-  grid-column: 1/3;
-  grid-row: 1/4;
-}
-
 .picture2 {
   display: grid;
   margin: 0.5rem 1rem;
