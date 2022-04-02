@@ -33,6 +33,17 @@ main {
   max-width: 960px;
   margin: 0 auto;
 }
+h1.h2.h3,h4{
+  display: grid;
+  }
+  h1, h2 {
+    position: relative;
+    float: inline-start;
+    color: #6728cc;
+    font-family: "Acme", sans-serif;
+    font-size: 45px;
+    line-height: normal;
+  }
 p {
   align-content: center;
   color: #6e0da7;
@@ -103,14 +114,7 @@ section#right-column {
   grid: 1/3;
 }
 
-h1, h2 {
-  position: relative;
-  float: inline-start;
-  color: #6728cc;
-  font-family: "Acme", sans-serif;
-  font-size: 45px;
-  line-height: normal;
-}
+
 
 footer {
   background-color: #cc3d11;
