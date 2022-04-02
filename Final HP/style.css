@@ -18,6 +18,7 @@ nav {
 }
 nav li {
   flex: 1 1 auto;
+  list-style: none;
 }
 nav a {
   display: block;
@@ -53,6 +54,7 @@ p {
   font-family: "Yanone Kaffeesatz", sans-serif;
   font-size: 40px;
   line-height: normal;
+  list-style: none;
 }
 
 body {
