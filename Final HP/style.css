@@ -71,8 +71,7 @@ body {
 
 section#left-column {
   display: grid;
-  grid-gap: 1rem;
-  row-gap: 2rem;
+  grid-gap: 2rem;
   align-items: center;
 }
 #left-column picture {
@@ -89,8 +88,7 @@ section#left-column {
 
 section#right-column {
   display: grid;
-  grid-gap: 1rem;
-  row-gap: 2rem;
+  grid-gap: 2rem;
   align-items: center;
   
 }
