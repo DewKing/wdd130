@@ -122,7 +122,7 @@ section#right-column {
   width: 400px;
 }
 footer {
-  background-color: #cc3d11;
+  background-color: #f78809ea;
   margin: 1rem auto;
   padding: 1rem;
   display: flex;
@@ -131,5 +131,5 @@ footer {
   max-width: 100%;
   align-content: center;
   justify-items: center;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid rgba(233, 192, 13, 0.904);
 }
