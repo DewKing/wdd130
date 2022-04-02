@@ -93,7 +93,7 @@ section#right-column {
   
 }
 #right-column picture {
-  grid-row: 3/4;
+  grid-row: 2/4;
 }
 #right-column li {
   list-style: none;
