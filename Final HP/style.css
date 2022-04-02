@@ -76,13 +76,6 @@ section#left-column {
 #left-column picture {
   grid-row: 1/4;
 }
-#left-column p {
-  align-content: center;
-  color: #1d0f25;
-  font-family: "Yanone Kaffeesatz", sans-serif;
-  font-size: 40px;
-  line-height: normal;
-}
 #left-column li {
   list-style: none;
   flex: 1 1 auto;
@@ -93,7 +86,6 @@ section#left-column {
 }
 section#right-column {
   display: grid;
-  grid-template-columns: 1fr 1fr;
   align-items: center;
   grid-gap: 2rem;
 }
@@ -104,7 +96,7 @@ section#right-column {
 #right-column li {
   list-style: none;
   flex: 1 1 auto;
-  color: #9b0915;
+  color: #1d0f25;
   font-family: "Yanone Kaffeesatz", sans-serif;
   font-size: 40px;
   line-height: normal;
