@@ -93,7 +93,7 @@ section#right-column {
   
 }
 #right-column picture {
-  grid-row: 1/4;
+  grid-row: 4/4;
 }
 #right-column li {
   list-style: none;
@@ -110,7 +110,7 @@ section#right-column {
   padding: 0.5rem;
   border-radius: 1rem;
   box-shadow: 0 0 1rem rgb(139, 133, 133);
-  width: 400px;
+  width: 550px;
 }
 .picture2,
 .picture4 {
@@ -120,7 +120,7 @@ section#right-column {
   padding: 0.5rem;
   border-radius: 1rem;
   box-shadow: 0 0 1rem #bbb;
-  width: 400px;
+  width: 550px;
 }
 footer {
   background-color: #f78809ea;
