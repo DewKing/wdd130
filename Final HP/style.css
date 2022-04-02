@@ -121,17 +121,6 @@ section#right-column {
   box-shadow: 0 0 1rem #bbb;
   width: 400px;
 }
-p {
-  align-content: center;
-  color: #853b11;
-  font-family: "Yanone Kaffeesatz", sans-serif;
-  font-size: 40px;
-  line-height: normal;
-  list-style: none;
-}
-
-
-
 footer {
   background-color: #cc3d11;
   margin: 1rem auto;
