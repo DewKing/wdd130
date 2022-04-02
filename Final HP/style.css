@@ -48,9 +48,9 @@ h1.h2.h3,h4{
   h2{
     grid-row: 1/3;
   }
-p {
+.p1 {
   align-content: center;
-  color: #6e0da7;
+  color: #078111;
   font-family: "Yanone Kaffeesatz", sans-serif;
   font-size: 40px;
   line-height: normal;
@@ -120,6 +120,14 @@ section#right-column {
   border-radius: 1rem;
   box-shadow: 0 0 1rem #bbb;
   width: 400px;
+}
+.p1 {
+  align-content: center;
+  color: #853b11;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 40px;
+  line-height: normal;
+  list-style: none;
 }
 
 
