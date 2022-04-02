@@ -126,7 +126,7 @@ footer {
   background-color: #f78809ea;
   margin: 1rem auto;
   padding: 1rem;
-  display: flex;
+  display: relative;
   font-family: "Acme", sans-serif;
   font-size: 45px;
   max-width: 100%;
