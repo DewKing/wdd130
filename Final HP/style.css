@@ -111,7 +111,8 @@ section#right-column {
   box-shadow: 0 0 1rem rgb(139, 133, 133);
   width: 400px;
 }
-.picture2 {
+.picture2,
+.picture4 {
   display: grid;
   margin: 0.5rem 1rem;
   border: 2px solid #ff00004d;
