@@ -36,7 +36,7 @@ main {
 h1.h2.h3,h4{
   display: grid;
   }
-  h1, h2 {
+  h1, h2, h3 {
     position: relative;
     float: inline-start;
     color: #6728cc;
