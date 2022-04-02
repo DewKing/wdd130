@@ -5,7 +5,7 @@ header {
   margin: 1rem auto;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
   border-bottom: 1px solid rgb(3, 25, 37);
   max-width: 100%;
   background-color: #cfb10a;
@@ -32,6 +32,13 @@ nav ul {
 main {
   max-width: 960px;
   margin: 0 auto;
+}
+p {
+  align-content: center;
+  color: #6e0da7;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 40px;
+  line-height: normal;
 }
 
 body {
