@@ -85,7 +85,6 @@ section#left-column {
 }
 #left-column li {
   flex: 1 1 auto;
-  list-style: none;
   align-content: left;
   color: #1d0f25;
   font-family: "Yanone Kaffeesatz", sans-serif;
