@@ -64,6 +64,14 @@ body {
   width: 100%;
   border: #0c6329;
   align-items: center;
+}#left-column li {
+  flex: 1 1 auto;
+  list-style: none;
+  align-content: left;
+  color: #1d0f25;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 40px;
+  line-height: normal;
 }
 
 
