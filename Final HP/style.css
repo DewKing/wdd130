@@ -118,7 +118,6 @@ section#right-column {
   padding: 0.5rem;
   border-radius: 1rem;
   box-shadow: 0 0 1rem #bbb;
-  grid: 1/3;
   width: 450px;
 }
 
@@ -131,7 +130,7 @@ footer {
   display: flex;
   font-family: "Acme", sans-serif;
   font-size: 45px;
-  max-width: absolute;
+  max-width: 100%;
   align-content: center;
   justify-items: center;
   border-bottom: 1px solid #ccc;
