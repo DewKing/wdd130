@@ -122,6 +122,17 @@ section#right-column {
   box-shadow: 0 0 1rem #bbb;
   width: 550px;
 }
+form {
+  /* Center the form on the page */
+  margin: 0 auto;
+  width: 400px;
+  /* Form outline */
+  padding: 1em;
+  border: 1px solid rgb(33, 46, 228);
+  border-radius: 1em;
+  justify-items: center;
+  background-color: rgb(228,150, 33);
+}
 footer {
   background-color: #f78809ea;
   margin: 1rem auto;
