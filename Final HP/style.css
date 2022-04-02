@@ -126,11 +126,11 @@ footer {
   background-color: #f78809ea;
   margin: 1rem auto;
   padding: 1rem;
-  display: relative;
+  display: flex;
   font-family: "Acme", sans-serif;
   font-size: 45px;
   max-width: 100%;
-  align-content: center;
-  justify-items: center;
+  align-items: center;
+  justify-content: space-around;
   border-bottom: 1px solid rgba(233, 192, 13, 0.904);
 }
